@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsepanx&layout=compact)](https://github.com/tsepanx)
 
-Hello, I'm Tsepa Stepan, Backend Python Developer.
+<!-- Hello, I'm Tsepa Stepan, Backend Python Developer.
 Here is a list of my projects:
 
 Django-based projects:
@@ -13,3 +13,4 @@ Telegram bots:
 - [Covid-19 bot](https://github.com/tsepanx/covid-stats.bot)
 - [Dice game bot](https://github.com/tsepanx/dice-game.bot)
 - [State bot](https://github.com/tsepanx/state-bot)
+ -->
