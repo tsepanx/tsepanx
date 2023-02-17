@@ -12,6 +12,7 @@ Main projects:
 Bunch of small scripts
 - [GitHub - tsepanx/scripts-and-builtins: Collection of my reimplementations of interesting tools](https://github.com/tsepanx/scripts-and-builtins)
 - [GitHub - tsepanx/os-course-labs](https://github.com/tsepanx/os-course-labs)
+- [GitHub - tsepanx/dotfiles: My dotfiles repository](https://github.com/tsepanx/dotfiles)
 
 Some of old projects worth mentioning
 - Telegram bots
