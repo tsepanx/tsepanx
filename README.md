@@ -9,19 +9,13 @@ Main projects:
 - [GitHub - tsepanx/linux-setup: Collection of scripts to automatically install and configure my favourite software](https://github.com/tsepanx/linux-setup)
 - [GitHub - tsepanx/secrets-share: Simple pastebin with encryption](https://github.com/tsepanx/secrets-share)
 
+Bunch of small scripts
+- [GitHub - tsepanx/scripts-and-builtins: Collection of my reimplementations of interesting tools](https://github.com/tsepanx/scripts-and-builtins)
+- [GitHub - tsepanx/os-course-labs](https://github.com/tsepanx/os-course-labs)
+
 Some of old projects worth mentioning
 - Telegram bots
     - [GitHub - tsepanx/covid-stats.bot: Covid19 stats tg-bot](https://github.com/tsepanx/covid-stats.bot)
     - [GitHub - tsepanx/dice-game.bot: Dice game tg-bot](https://github.com/tsepanx/dice-game.bot)
     - [GitHub - tsepanx/state-bot: A snippet tg-bot uses transitions python module](https://github.com/tsepanx/state-bot)
 - [GitHub - tsepanx/social-network.backend-django](https://github.com/tsepanx/social-network.backend-django)
-
-<!-- Hello, I'm Tsepa Stepan, Backend Python Developer.
-Here is a list of my projects:
-
-Django-based projects:
-- [Secrets share](https://github.com/tsepanx/secrets-share)
-
-Telegram bots:
-
- -->
