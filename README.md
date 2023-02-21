@@ -4,6 +4,7 @@
 
 
 Main projects:
+- [GitHub - tsepanx/metrics.tg-bot: Collect daily metrics of your life, and export via csv](https://github.com/tsepanx/metrics.tg-bot)
 - [GitHub - tsepanx/rss_bridge_python: Provides RSS feeds for sources not inteded for it](https://github.com/tsepanx/rss_bridge_python)
 - [GitHub - tsepanx/rss_tg_bot](https://github.com/tsepanx/rss_tg_bot): Simple tg-bot that fetches subscribed RSS feeds
 - [GitHub - tsepanx/linux-setup: Collection of scripts to automatically install and configure my favourite software](https://github.com/tsepanx/linux-setup)
